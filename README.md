@@ -14,7 +14,7 @@
 
 (1) 도서관 담당자는 급여를 받는 직장이라 입력이나 관리 등 다소 불편한 점이 있더라도 감수 할 수 있겠지만, (2) 독자는 어려운 형편에 공부를 하는 사람들이기 때문에 불필요한 기능을 제거하고, 꼭 필요한 것을 우선으로 배치하여 스트레스를 덜어주는 게 좋겠다는 생각 때문
 
-![도서관-프로젝트-Rqmt_ver0-03](https://github.com/user-attachments/assets/30994b29-541d-44cd-b1f2-0f3772836c82)
+![도서관-프로젝트-Rqmt_ver0-03](https://github.com/user-attachments/assets/4b08b9b2-e79c-4a3c-abda-517356f60d47)
 
-![도서관-프로젝트-Rqmt_ver0-04](https://github.com/user-attachments/assets/ec518bb8-8a5d-48cf-80e8-def5d5442314)
+![도서관-프로젝트-Rqmt_ver0-04](https://github.com/user-attachments/assets/1c8cf9a1-b5b8-4120-ad2c-e4369efaa3dc)
 
